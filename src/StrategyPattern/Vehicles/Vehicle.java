@@ -1,0 +1,5 @@
+package StrategyPattern.Vehicles;
+
+public interface Vehicle {
+    public void drive();
+}
